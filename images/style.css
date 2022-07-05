@@ -1,0 +1,27 @@
+.skip{
+    color: orangered;
+}
+body{
+    font-family: 'Lobster', cursive;
+    margin: 0%;
+}
+section{
+    display: flex;
+}
+.fixed{
+    width: 120%;
+    padding: 5%;
+}
+.fixed img{
+    width: 37.5%;
+}
+.fixed{
+    font-size: 40px;
+}
+.pragph{
+    font-size: 25px;
+}
+.fixed{
+    background-image: url(shapes/7.png);
+    background-repeat: no-repeat;
+}
